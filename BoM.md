@@ -24,7 +24,7 @@ For this device you do not need an Arduino or equivalent microprocessor.
 | te | test   | $1600       | test        | test |
 
 
-First Header  | Second Header
+No  | Amount
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
