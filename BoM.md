@@ -13,7 +13,7 @@ For this device you do not need an Arduino or equivalent microprocessor.
 |3|1|White LED|[iPrototype](https://iprototype.nl/products/components/led-lcd/ledwit), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9088)|0.52|
 |4|1|220 Ohm resistor|[iPrototype](https://iprototype.nl/products/components/resistors/220R), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=5785)|0.45|
 |5|1|7.5 W power supply|[iPrototype](https://iprototype.nl/products/accessoires/power/adapter), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=11642)|13.95|
-|6|1|Jack Adapter|link|price|
+|6|1|Jack Adapter|[EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=14342)|0.85|
 |7|1|4.7 GB DVD-R (track pitch 0.74 microns) or 1,000 lines/mm grating|[ipacity](http://ipacity.biedmeer.nl/Webwinkel-Product-78540591/Folie-tralie-1000-lijnen-mm-%2815-x-30-cm%29.html), [carolina](http://www.carolina.com/physical-science-light-and-optics/diffraction-grating/755230.pr?catId=&mCat=&sCat=&ssCat=&question=diffraction+grating)|15.90|
 |--|--|---|---|---|
 |||*Total costs*|||
