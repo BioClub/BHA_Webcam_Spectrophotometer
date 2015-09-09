@@ -6,7 +6,7 @@ This time the materials you need depend on the design you prefer. Ofcourse you c
 
 For this device you do not need an Arduino or equivalent microprocessor.
 
-| # | Amount | Description | Supplier NL | Cost |
+| No | Amount | Description | Supplier NL | Cost |
 | -: | ----: | :--------- | :------- | ---: |
 | 1 | 1 | Webcam | [Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA) | 7.00 |
 | 2 | 1 | 3mm MDF |[Houthandel Schmidt](https://www.google.com/maps/dir/Waag+Society,+Nieuwmarkt,+Amsterdam,+Netherlands/Houthandel+Schmidt,+Oudezijds+Achterburgwal+53,+1012+DB+Amsterdam,+Netherlands/@52.3732195,4.8971869,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47c609b93deae857:0xa3c3b57e66c44946!2m2!1d4.900298!2d52.372807!1m5!1m1!1s0x47c609b901ad7703:0x6d511a1e0f5be9c2!2m2!1d4.89915!2d52.373417) | 3.00 |
@@ -19,12 +19,7 @@ For this device you do not need an Arduino or equivalent microprocessor.
 | | | *Total costs* | | |
 
 
-| No | Amount | Description | Supplier NL | Cost |
-| -: | -----: | :---------- | :---------- | ---: |
-| te | test   | $1600       | test        | test |
-
-
-No  | Amount
-------------- | -------------
-1  | webcam
-2  | mdf
+No | Amount | Description | Supplier NL | Cost 
+------------- | ------------- | ------------- | ------------- | -------------
+1  | 1 | webcam | [Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA) | 7.00 |
+2  | 2 | mdf | [Tweakers Pricewatch](http://tweakers.net/categorie/289/webcams/producten/#filter:q1bKL0pJLXLLTM1JUbJSKijKzCpW0oEIBucXlQDFEouT4SIFqcmeQHW6hrUA) | 7.00 |
