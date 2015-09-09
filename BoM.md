@@ -19,8 +19,10 @@ For this device you do not need an Arduino or equivalent microprocessor.
 | | | *Total costs* | | |
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| # | Amount | Description | Supplier NL | Cost |
+| -: | ----: | :--------- | :------- | ---:|
+| col 3 is      | some wordy text | $1600 | | |
+| col 2 is      | centered        |   $12 | | |
+| zebra stripes | are neat        |    $1 | | |
+| -- | -- | --- | --- | --- |
+| | | *Total costs* | | |
