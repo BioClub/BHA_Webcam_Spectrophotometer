@@ -26,5 +26,5 @@ For this device you do not need an Arduino or equivalent microprocessor.
 
 No  | Amount
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+1  | webcam
+2  | mdf
