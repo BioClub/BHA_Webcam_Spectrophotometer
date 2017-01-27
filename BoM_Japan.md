@@ -13,4 +13,4 @@ No | Amount | Description | Supplier NL | Cost
 4 | 1 | 220Ω 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25221/)|0.02|
 5 | 1 | 7.5 W 電源|[Monotaro](https://www.monotaro.com/g/00013136/?t.q=dc%20%83A%83_%83v%83%5E%81%5B%207.5v),[Akizuki](http://akizukidenshi.com/catalog/g/gM-02194/)|12.50|
 6 | 1 | DC ジャック|[Monotaro](https://www.monotaro.com/g/00959124/?t.q=dc%20%83W%83%83%83b%83N)|0.85|
-7 | 1 | 4.7 GB DVD-R (track pitch 0.74 microns) or 1,000 lines/mm grating|[iPacity](http://ipacity.biedmeer.nl/Webwinkel-Product-78540591/Folie-tralie-1000-lijnen-mm-%2815-x-30-cm%29.html), [Carolina](http://www.carolina.com/physical-science-light-and-optics/diffraction-grating/755230.pr?catId=&mCat=&sCat=&ssCat=&question=diffraction+grating) | 14.00 
+7 | 1 | 4.7 GB DVD-R (track pitch 0.74 microns) or 1,000 lines/mm grating|[Amazon](http://amzn.asia/887x0K1) | 14.00 
