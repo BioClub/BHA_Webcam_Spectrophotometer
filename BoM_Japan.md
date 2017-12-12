@@ -9,7 +9,7 @@ Also you will need some 3mm materials to cut the design from.
 No | Amount | Description | Supplier NL | Cost 
 ------------: | ------------: | :------------ | :------------ | ------------:
 1 | 1 | ウェブカメラ | [Amazon](http://amzn.asia/3gSnP2s) | 7.00 
-2 | 1 |5mm 白 LEDs|[Monotaro](https://www.monotaro.com/g/00959141/)|0.18|
+2 | 1 |5mm 白 LEDs|[Monotaro](https://www.monotaro.com/g/00959141/), [AliExpress](https://www.aliexpress.com/item/100Pcs-pack-5mm-LED-Light-White-Ultra-Bright-15000MCD-Lamp-Diodes/32671982531.html)|0.18|
 4 | 1 | 220Ω 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25221/)|0.02|
 5 | 1 | 7.5 W 電源|[Monotaro](https://www.monotaro.com/g/00013136/?t.q=dc%20%83A%83_%83v%83%5E%81%5B%207.5v),[Akizuki](http://akizukidenshi.com/catalog/g/gM-02194/)|12.50|
 6 | 1 | DC ジャック|[Monotaro](https://www.monotaro.com/g/00959124/?t.q=dc%20%83W%83%83%83b%83N)|0.85|
